@@ -17,7 +17,6 @@ It demonstrates a complete ML pipeline including:
 - **Tech Stack**: Python, Scikit-learn, XGBoost, Pandas, Seaborn, SMOTE, GridSearchCV
 - **ML Models Used**:
   - Random Forest (with class weighting)
-  - XGBoost (optional)
 - **Feature Engineering**:
   - Log transformation of skewed features
   - Bucketization of weight
